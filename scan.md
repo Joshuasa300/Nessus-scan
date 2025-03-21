@@ -1,5 +1,10 @@
 # Image Gallery
 
+
+<div align="center">
+  <img src="Screenshot 2025-03-19 095551.png" alt="Screenshot 1" style="max-width: 600px; height: auto;">
+</div>
+
 <div align="center">
   <img src="Screenshot 2025-03-19 161525.png" alt="Screenshot 1" style="max-width: 600px; height: auto;">
 </div>
