@@ -1,4 +1,4 @@
-# Image Gallery
+# Nessus
 
 
 <div align="left">
@@ -14,6 +14,7 @@ Downloading Windows Iso for Oracle VM virtualbox
   <img src="Screenshot 2025-03-19 165447.png" alt="IPaddress" style="max-width: 400px; height: 400px;">
 </div>
 
+Use "ipconfig" to find the IP address
 
 <div style="display: flex;">
   <div align="left">
@@ -40,13 +41,10 @@ Downloading Windows Iso for Oracle VM virtualbox
 
 
 <div align="left">
-  <img src="Screenshot 2025-03-20 082051.png" alt="smb" style="max-width: 400px; height: 400px;">
+  <img src="Screenshot 2025-03-20 082051.png" alt="vulnerabilities" style="max-width: 400px; height: 400px;">
 </div>
 
 <div align="left">
-  <img src="Screenshot 2025-03-20 082417.png" alt="Screenshot 8" style="max-width: 400px; height: 400px;">
+  <img src="Screenshot 2025-03-20 082417.png" alt="SMB" style="max-width: 400px; height: 400px;">
 </div>
 
-<div align="left">
-  <img src="Screenshot 2025-03-20 105911.png" alt="Screenshot 9" style="max-width: 400px; height: 400px;">
-</div>
