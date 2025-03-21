@@ -63,18 +63,3 @@ This project involved conducting a Nessus vulnerability scan on a Windows 10 mac
 
 ## Conclusion
 The Nessus scan provided critical insights into security gaps in the Windows 10 machine. By addressing the identified vulnerabilities, the system can be hardened against potential cyber threats. Further scans should be performed regularly to ensure ongoing security compliance.
-
----
-
-## Author
-**[Your Name]**  
-## Date
-*[Insert Date]*  
-## Tools Used
-- Nessus  
-- PowerShell  
-- Windows Security Center  
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
