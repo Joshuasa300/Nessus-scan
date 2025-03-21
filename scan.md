@@ -14,12 +14,9 @@ Downloading Windows Iso for Oracle VM virtualbox
   <img src="Screenshot 2025-03-19 165447.png" alt="Screenshot 2" style="max-width: 400px; height: 400px;">
 </div>
 
-<div align="left">
-  <img src="Screenshot 2025-03-20 061340.png" alt="Screenshot 3" style="max-width: 400px; height: 400px;">
-</div>
-
-<div align="left">
-  <img src="Screenshot 2025-03-20 061417.png" alt="Screenshot 4" style="max-width: 400px; height: 400px;">
+<div align="left" style="display: flex; gap: 10px;">
+  <img src="Screenshot 2025-03-19 095551.png" alt="Download" style="max-width: 400px; height: 400px;">
+  <img src="Screenshot 2025-03-21 100745.png" alt="Bridged network" style="max-width: 400px; height: 400px;">
 </div>
 
 <div align="left">
